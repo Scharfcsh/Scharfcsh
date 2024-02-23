@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a chatting Application<br>👯 I’m looking to collaborate on any MERN based projects <br>🌱 Currently pursuing BTech In Computer Science <br>💬 Ask me about Blockchain Technology<br>⚡ Fun fact-> I'm still a beginner
+🔭 I’m currently working on a chatting Application<br>👯 I’m looking to collaborate on any MERN based projects <br>🌱 Currently pursuing BTech In Computer Science <br>💬 Ask me about Blockchain Technology<br>⚡ Fun fact-> I am a Sculpturer too
 
 
 ## 🌐 Socials:
