@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on a chatting Application<br>👯 I’m looking to collaborate on any MERN based projects <br>🌱 Currently pursuing BTech In Computer Science <br>💬 Ask me about Blockchain Technology<br>⚡ Fun fact-> I am a Sculpturer too
+🔭 I’m currently working on a chatting Application<br>👯 I’m looking to collaborate on any MERN based projects <br>🌱 Currently pursuing BTech In Computer Science <br>💬 Ask me about Blockchain Technology<br>⚡ Fun fact-> I am a Sculpturer too <br> <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=amanadhikari" target="_blank">Follow on LinkedIn</a>
 
 
 ## 🌐 Socials:
@@ -21,4 +21,3 @@
   ## 💰 Buy me a Cup of Coffee
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AdhikariAman) 
 
-  
