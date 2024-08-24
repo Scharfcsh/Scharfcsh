@@ -15,7 +15,8 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Scharfcsh&theme=gruvbox&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Scharfcsh&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scharfcsh&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Scharfcsh&icon=2&color=11)](https://visitcount.itsvg.in)
