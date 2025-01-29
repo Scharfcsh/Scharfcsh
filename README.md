@@ -1,11 +1,3 @@
-<h1 align="center">Hi 👋, I'm Aman Adhikari</h1>
-<h3 align="center">Just want to create many cool Projects🧑‍💻</h3>
-
-
-# 💫 About Me:
-🔭 I’m currently working on a chatting Application<br>👯 I’m looking to collaborate on any MERN based projects <br>🌱 Currently pursuing BTech In Computer Science <br> <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=amanadhikari" target="_blank">Follow on LinkedIn</a>
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amanadhikari49) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amanadhikari) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/amanadhikari49) 
 
