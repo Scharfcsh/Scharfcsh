@@ -8,11 +8,8 @@
 ## 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Scharfcsh&theme=tokyonight&hide_border=true)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scharfcsh&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Scharfcsh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
----
+
 [![](https://visitcount.itsvg.in/api?id=Scharfcsh&icon=2&color=11)](https://visitcount.itsvg.in)
 
   ## 💰 Buy me a Cup of Coffee
